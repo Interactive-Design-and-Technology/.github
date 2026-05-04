@@ -1,6 +1,6 @@
 # Interactive Design and Technology (IDT)
 
-Official Website: https://saskpolytech.ca/programs-and-courses/programs/Interactive-Design-and-Technology.aspx
+Official Program Webpage: https://saskpolytech.ca/idt
 
 > Are you ready to dive into a world where creativity meets technology and imagination drives innovation? Saskatchewan Polytechnic's Interactive Design and Technology Diploma is the perfect program for those who aspire to create meaningful and engaging digital experiences.
 >
